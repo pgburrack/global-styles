@@ -1,5 +1,6 @@
 /**
 * visually-hidden helps with hiding text that should be hidden for some users but still make it available for screen readers
+* https://www.joshwcomeau.com/snippets/react-components/visually-hidden/
 */
 .visually-hidden {
   position: absolute;
